@@ -2,6 +2,7 @@
 
 ## Overview
 Food Panda is a food delivery web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes a Home page, Login page, Signup page, Cart page, and My Orders page. The Cart and My Orders pages are accessible only when the user is logged in. Passwords are encrypted using bcrypt, and JWT is used for authentication.
+https://github.com/ashmitsharma/food-panda-mern/assets/55889884/5ff9bff2-b882-432c-9a61-95213e5b4c5d
 
 ## Features
 - Home Page: Displays the available food items.
