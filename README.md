@@ -42,6 +42,7 @@ Food Panda is a food delivery web application built using the MERN stack (MongoD
       ```
       SECRET=your_jwt_secret_key
       ```
+    - Set MongoDB URL in db.js file.
 4. Run the application:
     - In one terminal, start the backend server:
         ```cd backend
